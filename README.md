@@ -56,10 +56,6 @@ A simple web application built with Flask that allows users to create, update, a
 
 Contributions are welcome! Please feel free to submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgements
 
 - [Flask Documentation](https://flask.palletsprojects.com/)
